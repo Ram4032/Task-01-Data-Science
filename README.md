@@ -21,9 +21,7 @@ npm start
 Data is from the World Bank's demographic indicators. For more information, visit:
 https://data.worldbank.org/indicator/SP.POP.TOTL
 
-git clone https://github.com/Ram4032/Task-01-Data-Science.git
-cd Task-01-Data-Science
-
+ 
 
 ## Technologies Used
 
